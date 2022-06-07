@@ -24,7 +24,7 @@
 3. The accumulator sums up all the above PE's in 2.  
 4. Start row_count and column_count when PE_2_2 gets input data. 
 5. The mux chooses 0 for the following   
-   -- Whenever row_count == 0 OR column_count == 0  
+   -- Whenever the pixel is at the border
    Otherwise,   
    -- it chooses the accumulated value    
    When pixOutCnt exceeds image size, stop enqueing to tx line.  
