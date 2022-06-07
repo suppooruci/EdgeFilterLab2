@@ -12,7 +12,7 @@
 
 ## Schematic 
 ### Diagram
-![Schematic Diagram](https://user-images.githubusercontent.com/92354970/172226013-7c185566-cbe7-4bad-9d75-f872657a6cac.png)
+![Schematic Diagram](https://user-images.githubusercontent.com/92354970/172270279-d161b433-4c54-4adf-b130-605d5ffbb2ce.png)
 
 ### Explanation
 1. PE_1_1, PE_1_3, PE_2_2, PE_3_1, PE_3_3 are just pipeline cuts  
