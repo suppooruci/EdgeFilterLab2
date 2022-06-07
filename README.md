@@ -50,7 +50,7 @@ Info: Max frequency for clock  '$glbnet$CLK_clk_25mhz$TRELLIS_IO_IN': 112.75 MHz
 ```
 
 ### Additional Details
-Base Folder: home/suppoor/CS250B/lab2/   (on rivendell)    
-Code (HwMain.bsv) =  ulx3s_bsv/projects/image_proc/HwMain.bsv    
-System Log = ulx3s_bsv/projects/image_proc/system.log  
-HW Log =   ulx3s_bsv/projects/image_proc/hw.log  
+Base Folder:        home/suppoor/CS250B/lab2/   (on rivendell)    
+Code (HwMain.bsv):  ulx3s_bsv/projects/image_proc/HwMain.bsv    
+System Log =        ulx3s_bsv/projects/image_proc/system.log  
+HW Log =            ulx3s_bsv/projects/image_proc/hw.log  
