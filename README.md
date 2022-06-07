@@ -31,8 +31,10 @@
     
 
 ## Report
-Clock Speed =   
-Number of Cycles = 131587  
+Clock Speed = 112.75 MHz  
+Number of Cycles = 131587 
+Time taken = 131587 * (1/112.75 MHz) = 1.1671 ms
+
 ### System.log
 ```
 Starting image processing!  
@@ -41,6 +43,12 @@ Impage processing total cycles:     131587
 Image processing done!              131072 pixels  
 Output written to output.dat  
 ```
+
+### HW.log
+```
+Info: Max frequency for clock  '$glbnet$CLK_clk_25mhz$TRELLIS_IO_IN': 112.75 MHz (PASS at 25.00 MHz)
+```
+
 ### Additional Details
 Base Folder: home/suppoor/CS250B/lab2/   (on rivendell)  
 Code (HwMain.bsv) =  ulx3s_bsv/projects/image_proc/HwMain.bsv   
