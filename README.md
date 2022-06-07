@@ -32,7 +32,7 @@
 
 ## Report
 Clock Speed = 112.75 MHz  
-Number of Cycles = 131587 
+Number of Cycles = 131587   
 Time taken = 131587 * (1/112.75 MHz) = 1.1671 ms  
 
 ### System.log
