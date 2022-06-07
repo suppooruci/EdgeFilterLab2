@@ -32,8 +32,16 @@
 
 ## Report
 Clock Speed =   
-Number of Cycles =   
-
+Number of Cycles = 131587  
+### System.log
+```
+Starting image processing!  
+Impage processing latency:          516 cycles  
+Impage processing total cycles:     131587  
+Image processing done!              131072 pixels  
+Output written to output.dat  
+```
+### Additional Details
 Base Folder: home/suppoor/CS250B/lab2/   (on rivendell)  
 Code (HwMain.bsv) =  ulx3s_bsv/projects/image_proc/HwMain.bsv   
 System Log = ulx3s_bsv/projects/image_proc/system.log  
